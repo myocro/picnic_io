@@ -1,6 +1,11 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2026 myocro
+// PICNIC2 UDP I/O library interface.
+
 #ifndef PICNIC_IO_HPP_
 #define PICNIC_IO_HPP_
 #include <memory>
+#include <string>
 #include <vector>
 
 class PICNICIO {
@@ -25,4 +30,3 @@ private:
 };
 
 #endif
-

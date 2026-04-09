@@ -49,7 +49,7 @@
 ./picnic_cli --help
 ```
 
-## ライブラリAPI
+## 呼び出し方
 
 ```cpp
 #include "picnic_io.hpp"
@@ -75,3 +75,6 @@ picnic.close();
 | `getValues(values)` | 8チャンネルのADC値を取得 |
 | `getDebugMsg()` | 直前の操作のデバッグメッセージを取得 |
 
+## License
+
+[MIT License](./LICENSE)
