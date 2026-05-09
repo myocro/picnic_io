@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.5...3.31)
 set (TARGET_NAME picnic_io)
 
 project(${TARGET_NAME}
