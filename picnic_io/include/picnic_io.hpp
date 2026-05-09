@@ -4,6 +4,7 @@
 
 #ifndef PICNIC_IO_HPP_
 #define PICNIC_IO_HPP_
+#include <cstdint>
 #include <memory>
 #include <string>
 #include <vector>
